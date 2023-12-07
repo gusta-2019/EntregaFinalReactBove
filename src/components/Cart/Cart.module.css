@@ -1,0 +1,25 @@
+.cardtotal{
+    text-align: center;
+}
+.btn2{
+    text-align: center;
+    
+}
+.checkout{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.btn{
+    background-color: #130a4d;
+    color: white;
+}
+.Noitems{
+    text-align: center;
+    background-color: rgb(110, 110, 164);
+}
+.Noitems h1{
+    color:#130a4d
+}
+.Option{
+    color:#130a4d
+}

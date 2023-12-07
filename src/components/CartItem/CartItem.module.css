@@ -1,0 +1,41 @@
+.cartItem {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 1300px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(110, 110, 164);
+  align-items: center;
+  }
+  
+  .cartItem h3 {
+    margin-bottom: 5px;
+    padding-right: 35px;
+    font-size: 20px;
+  }
+
+  .cartItem p {
+    margin: 0;
+    
+  }
+  .cartprod{
+    display: flex;
+    flex-direction: column;
+  }
+  .cartItem p {
+    margin: 0;
+  }
+  
+  .cartItem .stotal {
+    font-weight: bold;
+    color: #130a4d; /* Puedes cambiar este color según tu preferencia */
+  }
+  
+
+  .removeButton{
+    margin-left: auto;
+  }

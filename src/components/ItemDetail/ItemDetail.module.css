@@ -1,0 +1,100 @@
+  .CardItem {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;
+      margin: 20px;
+      margin-left: 300px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      width: 700px;
+      display: flex;
+      flex-direction: column;
+      background-color: rgb(110, 110, 164);
+      align-items: center;
+    }
+    
+    .Header {
+      background-color: #3d2987;
+      padding: 10px;
+      text-align: center;
+      width: 100%;
+      color:white;
+    }
+    
+    .ItemHeader {
+      margin: 0;
+      font-size: 1.5em;
+    }
+    
+    .ItemImg {
+      width: 100%;
+      height: auto;
+      display: block;
+      text-align: center;
+      padding-right: 50px;
+    }
+    
+    .data{
+      display: flex;
+      padding: 20px;
+    }
+    .Info {
+      
+      padding: 15px;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .ItemFooter {
+      background-color: rgb(110, 110, 164);
+      padding: 10px;
+      text-align: center;
+      display: flex;
+      width: 600px;
+    }
+    
+    
+    .CountControls {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .CountInput {
+      width: 40px;
+      text-align: center;
+      margin: 0 10px;
+    }
+    
+    .BuyNowButton {
+      background-color: #3d2987;
+      color: white;
+      border: none;
+      width: 200px;
+      height: 40px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 7px;
+      margin-top: 100px;
+      margin-left: 170px;
+    }
+    
+    .BuyNowButton:hover {
+      background-color: #5a45a0;
+    }
+    
+    .Option{
+      padding: 10px 20px;
+      margin-left: 200px;
+      font-size: 18px;
+      cursor: pointer;
+      background-color: #3d2987;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      outline: none;
+    }
+    
