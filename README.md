@@ -2,7 +2,10 @@
 
 Cosecha Divina - E-commerce de Vinos
 
-# Nombre del Proyecto
+![3](https://github.com/gusta-2019/EntregaFinalReactBove/assets/118360218/dec7e91a-99e6-430c-9c34-488a9b6a9132)
+
+
+# Descripcion del Proyecto
 
 Es un proyecto de e-commerce especializado en la venta de vinos tintos, blancos, dulces y espumantes. Ofrece a los usuarios la posibilidad de explorar una amplia variedad de productos vitivinícolas, ver detalles específicos de cada vino, y realizar compras de manera intuitiva.
 
