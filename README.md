@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-Cosecha Divina - E-commerce de Vinos
+Cosecha Divina - Ecommerce de Vinos
 
 ![3](https://github.com/gusta-2019/EntregaFinalReactBove/assets/118360218/dec7e91a-99e6-430c-9c34-488a9b6a9132)
 
